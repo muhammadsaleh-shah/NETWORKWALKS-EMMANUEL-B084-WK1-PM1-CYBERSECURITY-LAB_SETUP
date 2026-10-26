@@ -30,7 +30,7 @@ Install **7-Zip** (or WinRAR) and extract the downloaded Kali Linux pre-built vi
 ### Step 3: Install VirtualBox
 Run the standard installer for **VirtualBox** and complete the default setup wizard.
 
-![VirtualBox Home Screen](images/01-virtualbox-vm.png)
+![VirtualBox Home Screen](01-virtualbox-vm.png)
 
 ---
 
@@ -42,7 +42,7 @@ In the VirtualBox Manager interface, navigate to **File** → **Tools** → **Ne
 ### Step 5: Select NAT Networks
 Click on the **NAT Networks** tab from the top menu.
 
-![VirtualBox NAT Network Settings](images/02-network-configuration.png)
+![VirtualBox NAT Network Settings](02-network-configuration.png)
 
 ---
 
@@ -67,7 +67,7 @@ Browse to the folder directory where you extracted the Kali Linux files in **Ste
 ### Step 9: Import the VM
 Select the Kali Linux `.vbox` configuration file to add the machine to VirtualBox Manager.
 
-![Kali Linux Added to VirtualBox Manager](images/03-kali-boot-screen.png)
+![Kali Linux Added to VirtualBox Manager](03-kali-boot-screen.png)
 
 ---
 
@@ -87,7 +87,7 @@ Click on the **Settings** gear icon in the top toolbar.
 3. Select **NatNetwork** under the **Name** drop-down menu.
 4. Click **OK** to save settings.
 
-![VirtualBox VM Network Configuration](images/04-virtualbox-network-settings.png)
+![VirtualBox VM Network Configuration](04-virtualbox-network-settings.png)
 
 ---
 
@@ -117,7 +117,7 @@ Double-click on the active network profile (e.g., **Wired connection 1**).
 2. Add your preferred DNS IP address (e.g., `8.8.8.8`) into the **Additional DNS servers** field.
 3. Click **Save**.
 
-![Kali Linux Network Settings Window](images/05-kali-desktop.png)
+![Kali Linux Network Settings Window](05-kali-desktop.png)
 
 ---
 
